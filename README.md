@@ -35,6 +35,7 @@ $ composer test
 ## Credits
 
 - [Carlos Afonso][link-author]
+- [Niklas Mollenhauer](https://github.com/nikeee)
 
 ## License
 
